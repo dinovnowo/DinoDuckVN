@@ -1,7 +1,7 @@
 # Hello 👋
 My username is Labality and I'm a PocketMine-MP plugin developer. I'm from Vietnam.
 
-I'm currently work at @ CliqueCraft
+
 # 🔒 Social Media
 
 Facebook: https://www.facebook.com/labality/
