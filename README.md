@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labality&theme=discord" alt="labality" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing!**
+- 🔭 I’m currently working on **a private project**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Labality)
 
